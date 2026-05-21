@@ -2,17 +2,14 @@
 This is a personal Home Lab which would showcase DevOps at its best.
 ###
 Developer (You)
-###
     │
     ▼
 ###
 GitHub Repo
-###
     │
     ▼
 ###
 GitHub Actions Pipeline
-###
     │
     ├── Build Docker Image
     ├── Test
@@ -22,7 +19,6 @@ GitHub Actions Pipeline
     ▼
 ###
 AWS EC2 Server
-###
     │
     ├── Docker Runtime
     ├── App Container
