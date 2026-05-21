@@ -1,8 +1,8 @@
 # HomeLab
 This is a personal Home Lab which would showcase DevOps at it's best.
 ###
-Developer (You)/l
-    │/l
+Developer (You) ###
+    │
     ▼
 GitHub Repo
     │
