@@ -1,6 +1,19 @@
 # HomeLab
 This is a personal home lab that would showcase DevOps at its best.
 ```
+homelab/
+├── app/
+│   ├── index.html
+│   └── Dockerfile
+├── .github/
+│   └── workflows/
+├── terraform/
+├── ansible/
+└── README.md
+
+```
+# Architecture
+```
 Developer
     │
     ▼
