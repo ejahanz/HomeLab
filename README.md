@@ -5,10 +5,14 @@ Developer (You)
 ###
     │
     ▼
+###
 GitHub Repo
+###
     │
     ▼
+###
 GitHub Actions Pipeline
+###
     │
     ├── Build Docker Image
     ├── Test
@@ -16,7 +20,9 @@ GitHub Actions Pipeline
     └── Deploy
     │
     ▼
+###
 AWS EC2 Server
+###
     │
     ├── Docker Runtime
     ├── App Container
