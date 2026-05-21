@@ -1,7 +1,8 @@
 # HomeLab
-This is a personal Home Lab which would showcase DevOps at it's best.
+This is a personal Home Lab which would showcase DevOps at its best.
 ###
 Developer (You)
+###
     │
     ▼
 GitHub Repo
