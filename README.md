@@ -1,14 +1,12 @@
 # HomeLab
-This is a personal Home Lab which would showcase DevOps at its best.
-###
-Developer (You)
+This is a personal home lab that would showcase DevOps at its best.
+```
+Developer
     │
     ▼
-###
 GitHub Repo
     │
     ▼
-###
 GitHub Actions Pipeline
     │
     ├── Build Docker Image
@@ -17,7 +15,6 @@ GitHub Actions Pipeline
     └── Deploy
     │
     ▼
-###
 AWS EC2 Server
     │
     ├── Docker Runtime
